@@ -1,5 +1,5 @@
 # FashionRecSystem
-Crowd-sourced fashion recommendation system built using ResNet50 trained on myntra database. Python libraries used include tensorflow, keras, streamlit, pickle, numpy, and others.
+Crowd-sourced fashion recommendation system built using ResNet50 trained on Myntra database. Python libraries used include tensorflow, keras, streamlit, pickle, numpy, os, SciKitLearn and PIL.
 
 Steps to use:
 1. Create new folder 'ABC'.
