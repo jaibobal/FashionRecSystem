@@ -17,7 +17,7 @@ model = tensorflow.keras.Sequential([model, GlobalMaxPooling2D()])
 feature_list = np.array(pickle.load(open("embeddings.pkl", "rb")))
 filenames = pickle.load(open("filenames.pkl", "rb"))
 
-st.title('Fashion Recommender System')
+st.title('VogueVision')
 
 def save_file(upload):
     try:
