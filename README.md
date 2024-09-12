@@ -1,4 +1,4 @@
-# FashionRecSystem
+# VogueVision
 Crowd-sourced fashion recommendation system built using ResNet50 trained on Myntra database. Python libraries used include tensorflow, keras, streamlit, pickle, numpy, os, SciKitLearn and PIL.
 
 Steps to use:
